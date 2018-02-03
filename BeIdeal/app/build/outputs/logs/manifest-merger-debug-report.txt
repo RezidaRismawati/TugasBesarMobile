@@ -1,0 +1,565 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\679c7ff35fbbf522b7097ccd4af4a50d\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\4a29e23313c973fed488edf8065c2e67\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\a1dd867639ba5a3aed7f3b9fef613f21\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\6b183de5b72736f98e064ccf20402e91\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\1a944cd9a31225534d1b2a5f03759836\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14e7dbc2612c98975b694971d819615d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\3eb66d78b3ec9b0ad4c0a9976514ca46\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\7b6448a2b54f4422d022223449460ba9\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\debae5c2955579c0434045833947491c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:16:1-23:12
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\2c41b2320349269555120707cb984b59\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\a621acd0b7f802046d399a7fcde9b6d1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\6960d46ae0fe86e06eba5e911758dbaf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\382078a5f3d067b36793fb19759992c3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\60b53a192c1937fbe359e77f00d15a96\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\7c006ee4aa0e630d330ea5d5cf371bfd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\338864a9cefefb3d13caf7ed5448023f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\bd8dcae82e9e05c7c57c5781816b1e75\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0873cf185629fb318b996aaedf5d5466\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\f7c5508c8fc0c094a39563f96d66ba0a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\6f82f0ec02765f019a1f148583a75279\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\bfd1cc6c99d733b18a12bf34745fbf75\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\7857abf322404be7feeec6a90a7b5c9a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\7610a5e0620aeb4eae1b5e604c054c5d\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:12:5-64:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\4a29e23313c973fed488edf8065c2e67\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\4a29e23313c973fed488edf8065c2e67\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\6b183de5b72736f98e064ccf20402e91\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\6b183de5b72736f98e064ccf20402e91\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\1a944cd9a31225534d1b2a5f03759836\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\1a944cd9a31225534d1b2a5f03759836\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14e7dbc2612c98975b694971d819615d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14e7dbc2612c98975b694971d819615d\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\debae5c2955579c0434045833947491c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\debae5c2955579c0434045833947491c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\2c41b2320349269555120707cb984b59\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\2c41b2320349269555120707cb984b59\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\a621acd0b7f802046d399a7fcde9b6d1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\a621acd0b7f802046d399a7fcde9b6d1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\6960d46ae0fe86e06eba5e911758dbaf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\6960d46ae0fe86e06eba5e911758dbaf\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\382078a5f3d067b36793fb19759992c3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\382078a5f3d067b36793fb19759992c3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\60b53a192c1937fbe359e77f00d15a96\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\60b53a192c1937fbe359e77f00d15a96\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\7c006ee4aa0e630d330ea5d5cf371bfd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\7c006ee4aa0e630d330ea5d5cf371bfd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\338864a9cefefb3d13caf7ed5448023f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\338864a9cefefb3d13caf7ed5448023f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\bd8dcae82e9e05c7c57c5781816b1e75\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\bd8dcae82e9e05c7c57c5781816b1e75\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0873cf185629fb318b996aaedf5d5466\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0873cf185629fb318b996aaedf5d5466\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\f7c5508c8fc0c094a39563f96d66ba0a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\f7c5508c8fc0c094a39563f96d66ba0a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\6f82f0ec02765f019a1f148583a75279\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\6f82f0ec02765f019a1f148583a75279\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\bfd1cc6c99d733b18a12bf34745fbf75\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\bfd1cc6c99d733b18a12bf34745fbf75\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\7857abf322404be7feeec6a90a7b5c9a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\7857abf322404be7feeec6a90a7b5c9a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\7610a5e0620aeb4eae1b5e604c054c5d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\7610a5e0620aeb4eae1b5e604c054c5d\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:14:9-46
+	android:allowBackup
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:18:9-40
+activity#rezida.beideal.Splash
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:theme
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:20:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:26:27-74
+activity#rezida.beideal.DaftarUser
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:29:19-45
+activity#rezida.beideal.Home
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:30:9-42
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:30:19-39
+activity#rezida.beideal.Profil
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:31:19-41
+activity#rezida.beideal.EditProfil
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:32:9-48
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:32:19-45
+activity#rezida.beideal.ProgressDiet
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:33:19-47
+activity#rezida.beideal.AsupanKalori
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:34:19-47
+activity#rezida.beideal.TipsOlahraga
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:35:9-50
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:35:19-47
+activity#rezida.beideal.MakananDihindari
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:36:19-51
+activity#rezida.beideal.MelakukanOlahraga
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:37:9-55
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:37:19-52
+activity#rezida.beideal.Grafik
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:38:19-41
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:47:9-49:55
+	android:value
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:48:13-58
+activity#rezida.beideal.Sport
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:51:9-53:60
+	android:label
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:53:13-57
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:52:13-34
+activity#rezida.beideal.Resto
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:54:9-56:60
+	android:label
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:56:13-57
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:55:13-34
+activity#rezida.beideal.MainActivity
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:57:9-50
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:57:19-47
+activity#rezida.beideal.MainGambar
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:58:9-48
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:58:19-45
+activity#rezida.beideal.DisplayImageActivity
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:59:9-58
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:59:19-55
+activity#rezida.beideal.Home2
+ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:60:9-63:68
+	android:label
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:62:13-57
+	android:theme
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml:61:13-34
+uses-sdk
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\679c7ff35fbbf522b7097ccd4af4a50d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\679c7ff35fbbf522b7097ccd4af4a50d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\4a29e23313c973fed488edf8065c2e67\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\4a29e23313c973fed488edf8065c2e67\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\a1dd867639ba5a3aed7f3b9fef613f21\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\a1dd867639ba5a3aed7f3b9fef613f21\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\6b183de5b72736f98e064ccf20402e91\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\6b183de5b72736f98e064ccf20402e91\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\1a944cd9a31225534d1b2a5f03759836\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\1a944cd9a31225534d1b2a5f03759836\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14e7dbc2612c98975b694971d819615d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14e7dbc2612c98975b694971d819615d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:23:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\3eb66d78b3ec9b0ad4c0a9976514ca46\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\3eb66d78b3ec9b0ad4c0a9976514ca46\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\7b6448a2b54f4422d022223449460ba9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\7b6448a2b54f4422d022223449460ba9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\debae5c2955579c0434045833947491c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\debae5c2955579c0434045833947491c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\2c41b2320349269555120707cb984b59\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\2c41b2320349269555120707cb984b59\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\a621acd0b7f802046d399a7fcde9b6d1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\a621acd0b7f802046d399a7fcde9b6d1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\6960d46ae0fe86e06eba5e911758dbaf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\6960d46ae0fe86e06eba5e911758dbaf\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\382078a5f3d067b36793fb19759992c3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.0.aar\382078a5f3d067b36793fb19759992c3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\60b53a192c1937fbe359e77f00d15a96\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\60b53a192c1937fbe359e77f00d15a96\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\7c006ee4aa0e630d330ea5d5cf371bfd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\7c006ee4aa0e630d330ea5d5cf371bfd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\338864a9cefefb3d13caf7ed5448023f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\338864a9cefefb3d13caf7ed5448023f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\bd8dcae82e9e05c7c57c5781816b1e75\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\bd8dcae82e9e05c7c57c5781816b1e75\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0873cf185629fb318b996aaedf5d5466\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\0873cf185629fb318b996aaedf5d5466\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\f7c5508c8fc0c094a39563f96d66ba0a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\f7c5508c8fc0c094a39563f96d66ba0a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\6f82f0ec02765f019a1f148583a75279\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\6f82f0ec02765f019a1f148583a75279\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\bfd1cc6c99d733b18a12bf34745fbf75\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\bfd1cc6c99d733b18a12bf34745fbf75\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\7857abf322404be7feeec6a90a7b5c9a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\7857abf322404be7feeec6a90a7b5c9a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\7610a5e0620aeb4eae1b5e604c054c5d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\7610a5e0620aeb4eae1b5e604c054c5d\AndroidManifest.xml:4:5-43
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+		INJECTED from F:\androidstudio\TugasBesarAndroid-master\TugasBesarAndroid-master\BeIdeal\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b77d04bf116f8cf579092341ca2be70b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\80da71c8672ca79b0eaaab7206b31959\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\de0020644316e9fb96a7ba8504ba139f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b739d684f07c2c5414f403b624b139f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9a144fe925015909358fd0fec95292b4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\611807079cec2e8da6bdaf3925f2a00e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d2f10867e43225b497bf040e0e822085\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7664bf6658954e2bdb78d4a0b32a49f0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\677eb9ad851866ce97ff77ec8d921713\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e7924ed659dbf28dc91ed4df87ae6d09\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6586dffbb48e84f96c680259fa03077d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3515b14eb32651ce0e692fc901ceed0b\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d2a7a28fccc22d2a3c56bbb64cbda839\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\af73d6c54a44bfbbcf41b0407c5f24ae\AndroidManifest.xml:21:52-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\3fea088c5b3ed6244fb6f6182f8c36f7\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\58376df74a16de547007c766cc7e68bf\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:25:17-71
+permission#rezida.beideal.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:27:22-76
+uses-permission#rezida.beideal.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+rezida.beideal
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:34:27-58
+category#rezida.beideal
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:40:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3c10ec99fe6fee9444234a4d508c1177\AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\81efece90f08d2e8d41205f9d6b4d3b7\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\9c7a667bc5abae8bf3624cb6fd1223fd\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\235ebaf6f93124c1520dd6c0defbe1b0\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Toshiba C55B\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\48fdc5372d34d0dd29e21888577f94ef\AndroidManifest.xml:26:13-58
